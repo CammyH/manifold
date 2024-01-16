@@ -475,20 +475,6 @@
       ]
     },
     {
-      "collectionGroup": "manalinks",
-      "queryScope": "COLLECTION",
-      "fields": [
-        {
-          "fieldPath": "fromId",
-          "order": "ASCENDING"
-        },
-        {
-          "fieldPath": "createdTime",
-          "order": "DESCENDING"
-        }
-      ]
-    },
-    {
       "collectionGroup": "notifications",
       "queryScope": "COLLECTION",
       "fields": [
